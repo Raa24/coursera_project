@@ -1,2 +1,2 @@
 # coursera_project
-Just a project from coursera
+  GNU nano 5.4                                    README.md                                             I am editing the README file. Adding some more details about the project description.
